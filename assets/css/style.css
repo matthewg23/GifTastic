@@ -1,0 +1,29 @@
+body {
+    background-image: url("https://i.pinimg.com/736x/ad/32/7a/ad327af547bf34117994acbbe134804a.jpg");
+}
+
+button,
+form,
+label {
+  margin: 10px;
+}
+
+input {
+  padding: 6px 6px;
+}
+
+.form-group {
+  margin: 10 0 0 10px;
+}
+
+label {
+  font-size: 22px;
+}
+
+.container-fluid {
+  background: tan;
+}
+
+.form-group {
+  background: tan;
+}
